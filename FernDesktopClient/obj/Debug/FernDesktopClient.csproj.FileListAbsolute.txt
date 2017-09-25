@@ -1,0 +1,19 @@
+c:\users\usuario\documents\visual studio 2017\Projects\FernDesktop\FernDesktopClient\bin\Debug\FernDesktopClient.exe.config
+c:\users\usuario\documents\visual studio 2017\Projects\FernDesktop\FernDesktopClient\bin\Debug\FernDesktopClient.exe
+c:\users\usuario\documents\visual studio 2017\Projects\FernDesktop\FernDesktopClient\bin\Debug\FernDesktopClient.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\FernDesktop\FernDesktopClient\obj\Debug\FernDesktopClient.Main.resources
+c:\users\usuario\documents\visual studio 2017\Projects\FernDesktop\FernDesktopClient\obj\Debug\FernDesktopClient.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2017\Projects\FernDesktop\FernDesktopClient\obj\Debug\FernDesktopClient.Start.resources
+c:\users\usuario\documents\visual studio 2017\Projects\FernDesktop\FernDesktopClient\obj\Debug\FernDesktopClient.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2017\Projects\FernDesktop\FernDesktopClient\obj\Debug\FernDesktopClient.exe
+c:\users\usuario\documents\visual studio 2017\Projects\FernDesktop\FernDesktopClient\obj\Debug\FernDesktopClient.pdb
+D:\Proyectos\VisualStudio\FernDesktop\FernDesktopClient\bin\Debug\FernDesktopClient.exe.config
+D:\Proyectos\VisualStudio\FernDesktop\FernDesktopClient\bin\Debug\FernDesktopClient.exe
+D:\Proyectos\VisualStudio\FernDesktop\FernDesktopClient\bin\Debug\FernDesktopClient.pdb
+D:\Proyectos\VisualStudio\FernDesktop\FernDesktopClient\obj\Debug\FernDesktopClient.csprojResolveAssemblyReference.cache
+D:\Proyectos\VisualStudio\FernDesktop\FernDesktopClient\obj\Debug\FernDesktopClient.Main.resources
+D:\Proyectos\VisualStudio\FernDesktop\FernDesktopClient\obj\Debug\FernDesktopClient.Properties.Resources.resources
+D:\Proyectos\VisualStudio\FernDesktop\FernDesktopClient\obj\Debug\FernDesktopClient.Start.resources
+D:\Proyectos\VisualStudio\FernDesktop\FernDesktopClient\obj\Debug\FernDesktopClient.csproj.GenerateResource.Cache
+D:\Proyectos\VisualStudio\FernDesktop\FernDesktopClient\obj\Debug\FernDesktopClient.exe
+D:\Proyectos\VisualStudio\FernDesktop\FernDesktopClient\obj\Debug\FernDesktopClient.pdb

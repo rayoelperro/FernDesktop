@@ -1,0 +1,18 @@
+c:\users\usuario\documents\visual studio 2017\Projects\FernDesktop\FernDesktop\bin\Debug\FernDesktop.exe.config
+c:\users\usuario\documents\visual studio 2017\Projects\FernDesktop\FernDesktop\bin\Debug\FernDesktop.exe
+c:\users\usuario\documents\visual studio 2017\Projects\FernDesktop\FernDesktop\bin\Debug\FernDesktop.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\FernDesktop\FernDesktop\obj\Debug\FernDesktop.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2017\Projects\FernDesktop\FernDesktop\obj\Debug\FernDesktop.Form1.resources
+c:\users\usuario\documents\visual studio 2017\Projects\FernDesktop\FernDesktop\obj\Debug\FernDesktop.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2017\Projects\FernDesktop\FernDesktop\obj\Debug\FernDesktop.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2017\Projects\FernDesktop\FernDesktop\obj\Debug\FernDesktop.exe
+c:\users\usuario\documents\visual studio 2017\Projects\FernDesktop\FernDesktop\obj\Debug\FernDesktop.pdb
+D:\Proyectos\VisualStudio\FernDesktop\FernDesktop\bin\Debug\FernDesktop.exe.config
+D:\Proyectos\VisualStudio\FernDesktop\FernDesktop\bin\Debug\FernDesktop.exe
+D:\Proyectos\VisualStudio\FernDesktop\FernDesktop\bin\Debug\FernDesktop.pdb
+D:\Proyectos\VisualStudio\FernDesktop\FernDesktop\obj\Debug\FernDesktop.csprojResolveAssemblyReference.cache
+D:\Proyectos\VisualStudio\FernDesktop\FernDesktop\obj\Debug\FernDesktop.Form1.resources
+D:\Proyectos\VisualStudio\FernDesktop\FernDesktop\obj\Debug\FernDesktop.Properties.Resources.resources
+D:\Proyectos\VisualStudio\FernDesktop\FernDesktop\obj\Debug\FernDesktop.csproj.GenerateResource.Cache
+D:\Proyectos\VisualStudio\FernDesktop\FernDesktop\obj\Debug\FernDesktop.exe
+D:\Proyectos\VisualStudio\FernDesktop\FernDesktop\obj\Debug\FernDesktop.pdb
